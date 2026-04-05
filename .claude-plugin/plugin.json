@@ -1,0 +1,13 @@
+{
+  "name": "simple-hud",
+  "version": "1.0.0",
+  "description": "轻量级 Claude Code 状态栏 - 上下文进度、Git 分支、模型名称、API 耗时",
+  "author": {
+    "name": "pengsq"
+  },
+  "commands": [
+    "./commands/setup.md"
+  ],
+  "license": "MIT",
+  "keywords": ["statusline", "hud", "context", "git"]
+}

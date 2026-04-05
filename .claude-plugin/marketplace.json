@@ -1,0 +1,20 @@
+{
+  "name": "simple-hud-marketplace",
+  "owner": {
+    "name": "pengsq"
+  },
+  "metadata": {
+    "description": "simple-hud 插件市场",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "simple-hud",
+      "source": "./",
+      "description": "轻量级 Claude Code 状态栏 - 上下文进度、Git 分支、模型名称、API 耗时",
+      "version": "1.0.0",
+      "keywords": ["statusline", "hud", "context", "git"],
+      "category": "productivity"
+    }
+  ]
+}
